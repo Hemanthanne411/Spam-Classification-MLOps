@@ -3,3 +3,4 @@ data
 experiments
 models
 reports
+.dvc/tmp/
